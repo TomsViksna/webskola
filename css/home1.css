@@ -1,0 +1,51 @@
+.boximage1col
+{
+   background-color: white;
+}
+
+.boximage1
+{
+    width: 102.3%;
+    height: 100% !important;
+    padding-left: 0;
+}
+
+.homecol1
+{
+    background-color: #448aff;
+}
+
+.poga1
+{
+    display: inline;
+    
+}
+
+.poga2
+{
+    display: inline;
+    
+}
+
+.sanlaiks
+{
+    display: block;
+}
+
+.submitpoga
+{
+    background-color: #455a64 !important;
+    color: white;
+    align-content: center;
+}
+
+#sel1
+{
+    height: 36px;
+    width: 30.5em;
+}
+
+.tadapati
+{
+    color: white;
+}

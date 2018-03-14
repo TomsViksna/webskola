@@ -1,0 +1,41 @@
+.body1
+{
+    background-color: lightslategray;
+}
+
+.row1{
+    background-color: #445a64;
+   
+}
+
+.head11
+{
+    float: left;
+}
+
+
+.head22
+{
+    float: right;
+}
+
+
+.head1{
+    
+    padding-top: 10px;
+    color:white;
+    font-size: 1em;
+}
+
+.head2
+{
+   
+    padding-top: 10px;
+    color: white;
+    font-size: 1em;
+}
+
+.glyphicon {
+    
+    
+}

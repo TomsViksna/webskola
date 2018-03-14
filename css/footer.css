@@ -1,0 +1,30 @@
+.fbox1col
+{
+    border: 0.5em solid white;
+    color: white;
+}
+
+.fbox2col
+{
+   
+    border: 0.5em solid white;
+}
+
+
+.fbox2
+{
+    color: white;
+    font-size: 1em;
+    
+}
+
+.fbox3col
+{
+    border: 0.5em solid white;
+}
+
+.fcont
+{
+    color: white;
+    display: inline;
+}
